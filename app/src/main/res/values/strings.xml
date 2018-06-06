@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Catalogo</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_equipment">EquipmentActivity</string>
 </resources>
